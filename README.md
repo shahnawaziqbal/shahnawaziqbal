@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahnawaziqbal
-- 👀 I’m interested in Datacience and Machine learning
+- 👀 I’m interested in Data science and Machine learning
 - 🌱 I’m currently learning Data cience programming with R
 - 💞️ I’m looking to collaborate on Machine Learning Project
 - 📫 How to reach me : iqbalsadik45@gmail.com
